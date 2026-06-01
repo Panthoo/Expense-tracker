@@ -42,7 +42,7 @@
     "scheme": "expensetracker",
     "extra": {
       "eas": {
-        "projectId": "your-eas-project-id"
+        "projectId": "9233fe34-a57b-4d66-a613-772fc989ca80"
       }
     }
   }
